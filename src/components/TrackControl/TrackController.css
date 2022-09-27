@@ -1,0 +1,12 @@
+.TrackController-container{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    align-items: center;
+}
+
+.pause-btn{
+    background-color: #77d0b2;
+    padding: 10px;
+    border-radius: 50%;
+}

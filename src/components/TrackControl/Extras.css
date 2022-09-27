@@ -1,0 +1,9 @@
+.extras{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 40px;
+}
+
+.share{
+    margin-right: 25px;
+}

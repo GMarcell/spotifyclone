@@ -1,0 +1,19 @@
+.playlist-container{
+    background-color: #77d0b2;
+    margin: 3px;
+    border-radius: 5px;
+    display: flex;
+    height: 50px;
+    overflow: hidden;
+    align-items: center;
+    color: #362c2c;
+}
+
+.playlist-img{
+    height: 100%;
+    margin-right: 5px;
+}
+
+.PlayList{
+    margin: 10px 0;
+}

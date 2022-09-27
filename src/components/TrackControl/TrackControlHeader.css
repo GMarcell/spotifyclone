@@ -1,0 +1,19 @@
+.TrackControlHeader-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    align-items: center;
+}
+
+.header-title{
+    text-align: center;
+}
+
+.header-word{
+    letter-spacing: 2px;
+    font-size: 12px;
+}
+
+.song-title{
+    font-weight: 600;
+}

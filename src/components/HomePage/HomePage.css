@@ -1,0 +1,19 @@
+.HomePage{
+    padding: 5px;
+}
+.Most-Played-Playlist{
+    display: flex;
+}
+
+.row{
+    flex: 50%;
+}
+
+button{
+    border: 0;
+    padding: 7px 10px;
+    border-radius: 15px;
+    background-color: #77d0b2;
+    margin: 5px;
+    font-weight: bold;
+}

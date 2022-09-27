@@ -1,0 +1,21 @@
+.row-artist{
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    color: #362c2c;
+}
+.artist{
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.artist-img{
+    border-radius: 50%;
+}
+.lingkaran{
+    border-radius: 50%;
+}
+
+.section-title{
+    margin-bottom: 15px;
+}
